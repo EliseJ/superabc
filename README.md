@@ -18,4 +18,4 @@ author: Elise Jennings
 
 superABC is a new sampling method for obtaining cosmological constraints from SN light curves using Approximate Bayesian Computation (ABC).
 
-The code will be made public following publication of the paper. 
+The code will be made public soon. Please email elise@fnal.gov if you would like a development version to start working with until then. 
