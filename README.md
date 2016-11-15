@@ -34,3 +34,42 @@ superABC comes with an interface to two forward model simulations for SN cosmolo
 * SNANA
 
 Please email elise@fnal.gov if you have any questions. 
+
+
+### Installing ###
+
+Install superABC using pip
+
+```
+$ pip install superabc
+```
+
+or git clone the repository using the url above. 
+Check the dependencies listed in the next section are installed.
+
+### Dependencies ###
+
+* numpy
+* scipy
+* astroabc
+* mpi4py
+* multiprocessing
+* sklearn
+
+if using sncosmo:
+
+* sncosmo
+* pandas
+* astropy
+
+if using SNANA:
+
+* SNANA
+* rootpy
+
+
+### License ###
+
+Copyright 2016 Elise Jennings
+
+astroABC is free software made available under the MIT License. For details see the LICENSE.txt file.
