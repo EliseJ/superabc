@@ -22,4 +22,4 @@ superABC comes with an interface to two forward model simulations for SN cosmolo
 * [sncosmo](http://sncosmo.readthedocs.io/en/v1.3.x/)
 * SNANA
 
-The code will be made public soon. Please email elise@fnal.gov if you have any questions. 
+Please email elise@fnal.gov if you have any questions. 
