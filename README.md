@@ -72,4 +72,4 @@ if using SNANA:
 
 Copyright 2016 Elise Jennings
 
-astroABC is free software made available under the MIT License. For details see the LICENSE.txt file.
+superABC is free software made available under the MIT License. For details see the LICENSE.txt file.
