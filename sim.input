@@ -39,16 +39,7 @@ GENRANGE_TREST:  -20  60
 GENRANGE_REDSHIFT:  0.01  1.2
 GENSIGMA_REDSHIFT:  0.001 
 
-#RANSEED: 12945    #R0   # random number seed
-RANSEED: 31198    #R1   # random number seed
-#RANSEED: 27121    #R2   # random number seed
-#RANSEED: 1145    #R3   # random number seed
-#RANSEED: 54311    #R4   # random number seed
-#RANSEED: 7241    #R5   # random number seed
-#RANSEED: 29841    #R6   # random number seed
-#RANSEED: 841    #R7   # random number seed
-#RANSEED: 611421    #R8   # random number seed
-#RANSEED: 496821    #R9   # random number seed
+RANSEED: 12945      # random number seed
 
 # smear flags: 0=off, 1=on
 SMEARFLAG_FLUX:    1  # photo-stat smearing of signal, sky, etc ...
