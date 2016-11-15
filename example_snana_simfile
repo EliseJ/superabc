@@ -1,0 +1,23 @@
+
+GENVERSION: superABC
+GENOPT: OMEGA_MATTER 0.18825 OMEGA_LAMBDA 0.81175 W0_LAMBDA -0.949
+
+
+
+ENDLIST_GENVERSION:
+
+# specify sim-input files for snlc_sim.exe
+SIMGEN_INFILE_Ia:       example_snana.input
+
+GENOPT_GLOBAL:  FUDGEOPT_FLUXERR 1
+
+# define required global items to ensure uniformity among all jobs
+H0: 70
+ZRANGE:      0.05  1.20
+GENPREFIX:   DES          # prefix of all data filenames
+FORMAT_MASK: 48           # 2=TERSE    16=RanCID  32=FITS-FORMAT
+
+
+RANSEED:  226983
+RANSEED:  226983  
+

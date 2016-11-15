@@ -1,0 +1,16 @@
+#          z      eff
+HOSTEFF:  0.0     1.
+HOSTEFF:  0.25    1.
+HOSTEFF:  0.35    0.80
+HOSTEFF:  0.45    0.58
+HOSTEFF:  0.55    0.45
+HOSTEFF:  0.65    0.40
+HOSTEFF:  0.75    0.27
+HOSTEFF:  0.85    0.23
+HOSTEFF:  0.95    0.17
+HOSTEFF:  1.05    0.13
+HOSTEFF:  1.15    0.09
+HOSTEFF:  1.25    0.07
+HOSTEFF:  1.25    0.05
+HOSTEFF:  1.35    0.03
+HOSTEFF:  1.45    0.01
